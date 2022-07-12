@@ -58,6 +58,7 @@ yarn start
 4) Откройте [http://localhost:3000](http://localhost:3000) в своем браузере 🎉✨
 
 Termux:
+
 apt update
 
 apt install coreutils
