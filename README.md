@@ -63,7 +63,13 @@ apt update
 
 apt install coreutils
 
+apt install git
+
+git clone https://github.com/stpsereak/vk.git
+
 apt install nodejs
+
+cd vk
 
 npm install -g yarn
 
