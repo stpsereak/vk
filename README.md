@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/52296792/85717731-3fb98b80-b707-11ea-8150-fc23cb4952a4.png" alt="logo"/>
-</p>
+
 
 <hr/>
 
